@@ -3,4 +3,4 @@
 
 ![image](界面.jpg)
 
-![学时分](E:\GitHub\gxelaAutoStudy\学时分.jpg)
+![学时分](学时分.jpg)
