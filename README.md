@@ -1,2 +1,6 @@
-广西干部学院自动看视频自动学习软件
-支持多开多账号同时学时，自动学完50学分。
+广西干部学院  自动 看视频    自动学习软件
+支持  多开  多账号   同时   学习任务，自动学完50学分。
+
+![image](E:\GitHub\gxelaAutoStudy\image.png)
+
+![学时分](E:\GitHub\gxelaAutoStudy\学时分.jpg)
