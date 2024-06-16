@@ -11,3 +11,5 @@ www.gxela.gov.cn
 ![image](界面.jpg)
 
 ![学时分](学时分.jpg)
+
+![浏览器](浏览器.jpg)
